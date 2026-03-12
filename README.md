@@ -15,7 +15,7 @@ A real-time Android application that tracks NCAA Division 1 Basketball scores.
 ##  How to Run
 
 1.  Clone this repository.
-2.  Open the project in Android Studio (Ladybug or later).
+2.  Open the project in Android Studio.
 3.  Sync Gradle and ensure you are using JDK 17+.
 4.  Run on an emulator or physical device (API 26+).
 
